@@ -54,8 +54,8 @@ The data set is divided in two folders, `train` and `test`, corresponding to the
   - -1 => Regular News
   
   If the experiments require a validation subset, the test subset may be divided into two equal parts: 
-  - the first 1,427 samples for validaion
-  - the next 1,427 samples for testing
+  - the samples with odd rank (1st, 3rd, 5th, ...) for validation (1,427 samples)
+  - the samples with even rank (2nd, 4th, 6th, ...) for testing (1,427 samples)
   
 ## 4. Website
 
