@@ -45,7 +45,7 @@ The data set is divided in two folders, `train` and `test`, corresponding to the
   ```
   
   where:
-  - `text_id` is the filename for the article text (from the `texts` folder)
+  - `text_id` is the filename for the file containing the article's text (from the `texts` folder)
   - `title` is the article's title
   - `label` is the label for the sample's corresponding class
 
