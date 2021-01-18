@@ -1,0 +1,19 @@
+La droite, en tête à Marseille? Elle remporterait 44% des suffrages à Marseille, devant la gauche qui ne recueillerait que 39% à l'issue d'une triangulaire avec le FN, selon un sondage BVA pour RTL et Le Parisien-Aujourd'hui en France publié lundi.
+
+La liste du Parti socialiste et d'EELV soutenue par Patrick Mennucci ne remporterait selon ce sondage que 39% des votes, tandis que la liste de l'UMP, du MoDem et de l'UDI soutenue par Jean-Claude Gaudin pointerait largement en tête avec 44% des suffrages au second tour des municipales, la liste frontiste de Stéphane Ravier réaliserait 16%.
+
+Au premier tour, la liste Gaudin arriverait en tête avec 41% des votes, devant la liste PS-EELV (26%), le FN (16%), le Front de gauche (11%), la liste de Pape Diouf (5%) et celle du Parti radical de gauche soutenue par Jacques Soubeyrand (1%).
+
+En revanche, cette même consultation donne sur le 3e secteur (4e et 5e arrondissements), un secteur-clé actuellement détenu par l'UMP, la ministre déléguée à la Lutte contre l'exclusion, Marie-Arlette Carlotti, gagnante avec 44% des intentions de votes contre 41% pour la liste UMP-UDI de l'actuel maire de secteur, Bruno Gilles, et 14% pour la liste frontiste.
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section{display:block;} body{line-height:1;} ol, ul{list-style:none;} blockquote, q{quotes:none;} blockquote:before, blockquote:after, q:before, q:after{content:'';content:none;} table{border-collapse:collapse;border-spacing:0;}.clear{clear:both;height:0px;overflow:hidden;line-height:0;font-size:0.0em;} #ColD-Elections{overflow:hidden;width:580px;margin:0 0 20px 0;font:12px Arial, Helvetica, sans-serif;color:#046;}#ColD-Elections .main{overflow:hidden;background:#fff url(https://static.bfmtv.com/regie/img/elections/map.png) no-repeat center right;padding:10px;}#ColD-Elections .foot{overflow:hidden;width:580px;height:3px;background:url(//www.bfmtv.com/img/bfmtv_sprite.png) 0 0;} #ColD-Elections .titre{font:bold 18px 'Trebuchet MS', Arial, Helvetica, sans-serif !important;color:#269 !important;text-transform:uppercase !important;margin:0 0 10px 0 !important;}#ColD-Elections .titre2{font:bold 14px Arial, Helvetica, sans-serif !important;color:#666 !important;margin:0 0 10px 0 !important;}#ColD-Elections li{display:block;margin-bottom:10px;}#ColD-Elections label{display:block;}#ColD-Elections input, #ColD-Elections select{font:13px/28px Arial, Helvetica, sans-serif;color:#666;border:1px solid #b8c3c9;background:#f9f9fa;width:70%;}#ColD-Elections input.submit{font:bold 14px Arial, Helvetica, sans-serif;color:#fff;border:1px solid #222;background:#333;cursor:pointer;width:auto;}
+Élections
+Les résultats dans votre ville
+Ex : Lyon, 69 ou Lyon, 69002
+Sélectionnez votre élection
+Présidentielle 2002
+Présidentielle 2007
+Législatives 2007
+Présidentielle 2012
+Législatives 2012
+Municipales

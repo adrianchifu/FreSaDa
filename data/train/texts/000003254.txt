@@ -1,0 +1,2 @@
+On ne va pas se le cacher : vous ne roulez pas sur l’or. Vous dîtes à tout le monde que vous êtes bientôt sur « un gros coup » mais plus personne n’y croit. Alors un doute persiste : êtes-vous pauvre ou juste intermittent du spectacle ?
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };

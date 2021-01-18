@@ -1,0 +1,2 @@
+A 75 printemps révolus, vous avez vos petites habitudes : faire vos courses à 18h30 tous les jours par exemple. Pour « voir du monde » principalement. Problème : vous n’aimez pas trop attendre et quand la file s’allonge à la caisse, vous voulez passer devant tout le monde.
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };

@@ -1,0 +1,4 @@
+"Monsieur le président de la république". L'appellation est flatteuse, pour Claude Bartolone, président de l'Assemblée nationale. Peu après son discours mercredi dans l'hémicycle sur l'engagement militaire de la France en Irak, Manuel Valls a voulu reprendre la parole. Mais c'est d'abord un lapsus qui est sorti de sa bouche, sous les rires des députés.
+Le président de l'Assemblée nationale a aussitôt relevé l'erreur, en répondant au Premier ministre sur un ton amusé: "Vous voulez vraiment me créer des problèmes?". Manuel Valls a toutefois su retrouver ses esprits, et a tenté de répondre aux interrogations des députés qui venaient de prendre la parole.
+
+.videowrapper { position: relative; padding-bottom: 50%; padding-top: 30px; height: 0; overflow: hidden; } .videowrapper iframe, .videowrapper object, .videowrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }

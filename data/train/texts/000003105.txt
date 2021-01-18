@@ -1,0 +1,4 @@
+Nous avons les moyens de vous faire parler
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };
+
+En vente partout La Boîte à Quiz du Gorafi https://amzn.to/2Uviaua et l’Almanach du Gorafi https://amzn.to/2RYfbgR ou en librairies

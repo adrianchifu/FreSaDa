@@ -1,0 +1,2 @@
+Vous avez du mal à cerner votre identité et vous n’osez pas demander autour de vous comment les gens vous perçoivent ? Ce test est donc fait pour vous. Mais attention, il risque de ne pas changer votre vie !
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };

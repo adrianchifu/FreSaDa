@@ -1,0 +1,2 @@
+TECHNO - L'histoire est écrite depuis des mois, mais chaque petite étape est difficile à avaler. Il faut pourtant s'y faire: Paint va finir par disparaître. Microsofta confirmé que son célèbre logiciel de dessin, vieux de plus de 30 ans, allait être abandonné, rapporte Le Figaro ce lundi 24 juillet.
+Dans la mise à jour de Windows 10 prévue cet automne, le logiciel sera rangé dans la catégorie "déprécié" (c'est à dire "osbolète"). Bref, Paint ne sera plus "activement développé et pourrait être supprimé dans de prochaines mises à jour", explique Microsoft.

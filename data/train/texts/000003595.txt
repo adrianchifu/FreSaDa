@@ -1,0 +1,6 @@
+Très peu de gens sont capables de résoudre l’équation suivante sans faire la moindre erreur. Seuls √531, 3 x (-52 x 2,34) y parviennent.
+Dès que les gens sont confrontés à l’ équation :
+f(x) = f(0) + f'(0) x + f x(0) x²/2! + f »‘(0) x³/3! +cos x + i sin x + 1 + i.x /1! + (i.x)²/2! + (i.x)³/3
+seuls √531, 3 x (-52 x 2,34) d’entre eux trouvent la bonne réponse. Pourquoi ? Car √787 x (321 x 12,9) des personnes qui tentent de résoudre l’équation ont tendance à la confondre avec la formule suivante : eix=1 + i.x /1! + (i.x)²/2! + (i.x)³/3! + (cos θ cos θ’ – sin θ sin θ) + i ( cos θ + sin θ’ +sin θ + cos θ’ )- (z x z)’ = eiϴ x eiϴ’. Pire, 25/58 x (√ -514 x 3²) sont convaincus qu’ils n’y arriveront jamais et n’essayent même pas parce qu’ils ont un jour buté sur ∇×E=–∂B/∂t ∇×B=μ0(J+ε0∂E/∂t).
+Est-ce pour autant une fatalité ? Non, si l’on en croit Sylvain Faut, chercheur en mathématiques à l’université de Genève. « Pendant longtemps, on a dit la même chose de dfdt=limh→0=f(t+h)−f(t)h. Or on voit bien que ce n’est plus le cas » explique-t-il avant d’ajouter : « Cela prouve bien que f(ω)=∫+∞−∞e−2πixωdx ! ».
+Bravo, vous faites partie des √4 x (9:9) % de personnes qui ont lu l’article jusqu’au bout !

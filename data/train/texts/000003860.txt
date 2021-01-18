@@ -1,0 +1,4 @@
+Vous êtes un rat des champs, des rêves plein la tête. Vous avez décidé de « monter à la capitale » pour vous faire un nom, parmi les rats des villes, et les souris des bas-fonds.
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };
+
+En vente partout La Boîte à Quiz du Gorafi https://amzn.to/2BNAacP et l’Almanach du Gorafi https://amzn.to/2zEa4Yh

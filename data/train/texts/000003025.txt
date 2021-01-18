@@ -1,0 +1,3 @@
+It’s the final countdown
+The final countdown
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };

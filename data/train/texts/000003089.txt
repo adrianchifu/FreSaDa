@@ -1,0 +1,5 @@
+Vous avez été pris la main dans le sac, et vous voilà incarcéré(e). En garde à vue depuis quelques jours dans une cellule au confort sommaire, vous aimeriez qu’on dénonce ces conditions.
+Mais êtes-vous assez riche pour cela ?
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };
+
+En vente partout La Boîte à Quiz du Gorafi https://amzn.to/2Uviaua et l’Almanach du Gorafi https://amzn.to/2RYfbgR ou en librairies

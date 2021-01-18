@@ -1,0 +1,2 @@
+Et voilà, vous avez rejoint les rangs du SNU, Service National Universel, mais en serez-vous digne?
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };

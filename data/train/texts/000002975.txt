@@ -1,0 +1,2 @@
+Vous aimez le Dakota du nord ou une pause à la machine à café?
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };

@@ -1,0 +1,28 @@
+#gallery-2 { margin: auto; } #gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 33%; } #gallery-2 img { border: 2px solid #cfcfcf; } #gallery-2 .gallery-caption { margin-left: 0; } /* see gallery_shortcode() in wp-includes/media.php */
+Lindingre
+Willis from Tunis
+
+
+Une page de dessins consacrée à… CHARLIE HEBDO, UN AN APRÈS.
+Avec les dessins de Berth, Jiho, Lacombe, Lindingre, Malingrëy, Mix & Remix, Pakman, Fernand, Willis from Tunis.
+A retrouver dans notre numéro de Janvier.
+PARTAGEZ CET ARTICLE
+MOTS-CLÉS
+attentats, Charlie Hebdo
+DANS LA MÊME RUBRIQUE
+Par Berth
+septembre 2019
+Par Mric
+juillet 2019
+Par Berth
+juin 2019
+n°86
+Par Lacombe
+mai 2019
+n°86
+Par La Rédaction
+avril 2019
+n°85
+Par Mric
+avril 2019
+de dessins

@@ -1,0 +1,2 @@
+T’as un problème ? Tu veux en finir avec la vie?
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };

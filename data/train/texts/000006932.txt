@@ -1,0 +1,15 @@
+INTERNATIONAL - La Corée du Nord pourrait être, selon des enquêteurs américains, à l'origine du vol de 81 millions de dollars sur un compte que la banque centrale du Bangladesh détenait auprès de la Réserve fédérale de New York, affirme ce mercredi 22 mars le Wall Street Journal.
+La justice américaine s'apprêterait à accuser des intermédiaires chinois qui auraient aidé la Corée du Nord à dérober cette somme par piratage informatique en février 2016, ajoute le journal citant des sources proches de l'enquête.
+Contactés par l'AFP, les départements de la Justice comme du Trésor se sont abstenus de tout commentaire.
+Arnaque aux virements puis blanchiment en casinos
+En utilisant le système de transfert international SWIFT, des pirates informatiques avaient réussi à se faire virer 81 millions de dollars depuis un compte détenu par la banque centrale du Bangladesh à l'antenne de New York de la banque centrale américaine (Fed).
+Les hackers avaient inondé la Fed de New York de dizaines de demandes de virements et cherchaient à détourner 850 millions supplémentaires mais l'antenne new-yorkaise de la Réserve fédérale avait bloqué les autres transactions.
+L'argent avait été viré sur un compte aux Philippines et avait ensuite disparu, en partie blanchi dans les casinos.
+Un piratage similaire à celui de Sony
+En mai dernier, une étude de la société de sécurité informatique Symantec avait déjà évoqué une connexion possible de cette affaire avec la Corée du nord.
+Le logiciel malveillant utilisé par les pirates comportait en effet des traits communs avec celui employé dans l'attaque d'envergure de Sony Pictures Entertainment (SPE) fin 2014, avait affirmé cette étude.
+Lors de ce piratage spectaculaire, commandité par la Corée du Nord selon les autorités américaines, les emails et informations personnelles de milliers d'employés de SPE avaient été volées. Les auteurs exigeaient que Sony Pictures Entertainment renonce à diffuser une comédie sur le dirigeant nord-coréen Kim Jong-Un, "L'interview qui tue".
+Les banques nord-coréennes déconnectées
+Selon le Wall Street Journal, le numéro deux de l'agence de renseignement américaine NSA, Rick Ledgett a déclaré mardi à Washington "être optimiste sur la véracité" d'un rapprochement entre les deux cyber-attaques, celle de la banque du Bangladesh et celle de SPE.
+"Si le lien est avéré, cela veut dire qu'un Etat est en train de voler des banques. C'est une grosse affaire", a affirmé mardi ce responsable lors d'un débat à l'institut d'études Aspen.
+La semaine dernière, le système international de transfert bancaire SWIFT a déconnecté les dernières banques nord-coréennes encore reliées à son réseau, en plein regain de tension internationale après des tirs de missiles par Pyongyang.

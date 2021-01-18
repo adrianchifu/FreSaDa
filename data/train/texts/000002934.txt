@@ -1,0 +1,2 @@
+Partez en chasse !
+// <![CDATA[ window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.parse(); }; // ]]&gt;

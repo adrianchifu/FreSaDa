@@ -1,0 +1,2 @@
+Il s’est passé tellement de choses cette semaine ! Et vous qu’avez-vous retenu?
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };

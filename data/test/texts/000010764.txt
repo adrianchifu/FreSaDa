@@ -1,0 +1,22 @@
+Première étape du road trip des municipales de BFMTV: Sevran, en Seine-Saint-Denis. Le maire de la ville, l’écologiste Stéphane Gatignon, avait attiré les regards en entamant une grève de la faim devant l’Assemblée nationale pour réclamer plus d’argent pour sa commune. A 13 jours des élections, BFMTV est retourné dans la ville. A deux semaines des municipales, quels sont les souhaits des habitants, leurs attentes? Iront-ils voter?
+> Paroles d'électeurs
+.videowrapper { position: relative; padding-bottom: 50%; padding-top: 30px; height: 0; overflow: hidden; } .videowrapper iframe, .videowrapper object, .videowrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+A Sevran, où l'abstention avait été très forte en 2008, les habitants sont partagés quant à l'élection de 2014. Cédric, un habitant de la cité des Beaudottes, le sait déjà: "Je ne vais pas voter", affirme-t-il. "J'ai jamais voté. Regardez, les gens qui votent: deux jours après, ils sont déçus!"
+Morgane, elle, ira voter par principe mais sans conviction: "je vote parce qu'il faut voter. Mais sans ça, je ne m'en occupe pas vraiment. D'ailleurs, je vote blanc".
+Salim, Sevranais depuis 21 ans, reconnaît que "la campagne en elle-même est vraiment intéressante vu qu'il y a de nouveaux candidats qui sont arrivés".
+> Pourquoi Sevran a fait l'actu
+C'est surtout en 2012 que l'on a beaucoup parlé de Sevran. Le 9 novembre, Stéphane Gatignon décide d'entamer une grève de la faim. Face aux difficultés financières de la ville, l'élu passe à la manière forte et s'installe dans une petite tente, devant l'Assemblée nationale. Il demande une revalorisation des dotations financières pour Sevran. Le 15 novembre, après avoir reçu l'assurance que sa commune recevrait près de 5 millions supplémentaires par an, Stéphane Gatignon arrête sa grève de la faim.
+> Les forces en présence
+Elu dès 2001, puis réélu au premier tour en 2008, Stéphane Gatignon est candidat à un troisième mandat. Passé du Parti communiste à Europe Ecologie-Les Verts au cours de son deuxième mandat, il se présente pour la première fois avec l'étiquette écologiste devant les électeurs. Sa liste réunit EELV avec le PS et le PRG.
+Face à lui, Clémentine Autain, suppléante du député François Asensi, représente le Front de gauche. A droite, l'ancien délégué du préfet, Mohamed Chirani, est le candidat du Mouvement citoyen de Sevran, soutenu par l'UMP. L'UDI est représentée par Farid Temsamani. Philippe Geoffroy, ex-premier adjoint de l'ancien maire RPR Jacques Oudot, mène une liste divers droite, et Serge Grimaldi une liste du POI (Parti ouvrier indépendant). Enfin, Seïd Ferrat, ancien responsable du point information jeunesse de la ville et sans étiquette, se présente en tête de la liste "Ensemble nous sommes Sevran".
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section{display:block;} body{line-height:1;} ol, ul{list-style:none;} blockquote, q{quotes:none;} blockquote:before, blockquote:after, q:before, q:after{content:'';content:none;} table{border-collapse:collapse;border-spacing:0;}.clear{clear:both;height:0px;overflow:hidden;line-height:0;font-size:0.0em;} #ColD-Elections{overflow:hidden;width:580px;margin:0 0 20px 0;font:12px Arial, Helvetica, sans-serif;color:#046;}#ColD-Elections .main{overflow:hidden;background:#fff url(https://static.bfmtv.com/regie/img/elections/map.png) no-repeat center right;padding:10px;}#ColD-Elections .foot{overflow:hidden;width:580px;height:3px;background:url(//www.bfmtv.com/img/bfmtv_sprite.png) 0 0;} #ColD-Elections .titre{font:bold 18px 'Trebuchet MS', Arial, Helvetica, sans-serif !important;color:#269 !important;text-transform:uppercase !important;margin:0 0 10px 0 !important;}#ColD-Elections .titre2{font:bold 14px Arial, Helvetica, sans-serif !important;color:#666 !important;margin:0 0 10px 0 !important;}#ColD-Elections li{display:block;margin-bottom:10px;}#ColD-Elections label{display:block;}#ColD-Elections input, #ColD-Elections select{font:13px/28px Arial, Helvetica, sans-serif;color:#666;border:1px solid #b8c3c9;background:#f9f9fa;width:70%;}#ColD-Elections input.submit{font:bold 14px Arial, Helvetica, sans-serif;color:#fff;border:1px solid #222;background:#333;cursor:pointer;width:auto;}
+Élections
+Les résultats dans votre ville
+Ex : Lyon, 69 ou Lyon, 69002
+Sélectionnez votre élection
+Présidentielle 2002
+Présidentielle 2007
+Législatives 2007
+Présidentielle 2012
+Législatives 2012
+Municipales

@@ -1,0 +1,18 @@
+La NSA a-t-elle espionné l'Elysée ces dernières années? Dans un article publié ce vendredi, Le Monde comment Paris a soupçonné l'Agence de sécurité nationale américaine (NSA) d'avoir piraté le système informatique de l'Elysée, dans le but de surveiller les activités de la présidence française.
+
+Le quotidien a notamment pu consulter une note interne de la NSA, classée secrète, sur l'attaque informatique qui a visé l'Elysée en avril 2012.
+Piratage du système informatique de l'Elysée
+Les faits remontent au mois de mai 2012, plus précisement à l'entre-deux tours de l'élection présidentielle. Alors que Nicolas Sarkozy et ses équipes, en pleine campagne, occupent toujours l'Elysée, la présence de bretelles de dérivation visant à capter les informations liées à la présidence, mais aussi des systèmes de piratage des ordinateurs des collaborateurs du président sont mis en évidence.
+
+"L'attaque ne relevait pas de l'acte de sabotage destiné à être rendu public, mais de la volonté de s'installer à demeure sans se faire voir au cœur de la présidence", explique au Monde un expert intervenu sur l'incident à l'époque.
+Rencontre au siège de la NSA
+Très vite, Washington est soupçonné d'être à l'origine de cette attaque, et la tension avec Paris est palpable. Pour faire la lumière sur cette affaire, la France exige que deux dirigeants de ses services de renseignement soient reçus au siège de la NSA, dans le Maryland.
+
+La visite a lieu près d'un an après les faits, le 12 avril 2013. Le rapport top secret établi par la NSA à la suite de cette visite française, et que Le Monde a pu consulter, rend à la fois compte de l'entrevue et de l'enquête sur l'espionnage de l'Elysée.
+
+Cette enquête affirme d'abord que ni les Etats-Unis, et notamment TAO (Tailored Access Operations), le service de la NSA qui gère les cyber-attaques à travers le monde, ni leurs proches alliés, ne sont responsables de l'opération. "TAO a demandé à la plupart des plus proches partenaires de la NSA au sein du premier et deuxième cercle s'ils étaient impliqués, tous ont démenti leur implication", dit ainsi le document de la NSA.
+
+Une attaque d'Israël
+La NSA se demande alors si les responsables de l'espionnage ne seraient pas en fait le Mossad et l'ISNU, les services secrets israéliens, qui sont en mesure d'organiser délibérément ce type d'attaque selon le rapport, qui toutefois ne le notifie pas clairement en raison de la relation privilégiée entre les Etats-Unis et Israël. "TAO a volontairement évité de demander au Mossad ou à l'ISNU s'ils étaient impliqués car la France n'est pas une cible commune à Israël et aux Etats-Unis", stipule le rapport.
+
+Interrogées par Le Monde sur ces éléments, les autorités israéliennes affirment qu'"Israël est un pays ami, allié et partenaire de la France, et ne gère aucune activité hostile qui pourrait porter atteinte à sa sécurité".

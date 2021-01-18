@@ -1,0 +1,12 @@
+Agenda
+Willem et Pakman en dédicace à Paris
+Par La Rédaction, avril 2017 Pour fêter la sortie de leurs biographies, les dessinateurs Willem et Pakman s’offrent une mini-tournée de dédicaces à Paris du 24 au 26 avril.
+#gallery-2 { margin: auto; } #gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 50%; } #gallery-2 img { border: 2px solid #cfcfcf; } #gallery-2 .gallery-caption { margin-left: 0; } /* see gallery_shortcode() in wp-includes/media.php */
+
+
+Dans la collection Les Iconovores, vous avez demandé Willem et Pakman ? Bonne pioche. Les biographies des deux dessinateurs de presse, collaborateurs de Siné Mensuel, sortent le 21 avril 2017 chez Critères Éditions.
+Rencontres et dédicaces prévues en début de semaine à Paris :
+Le lundi 24 au Café l’ami Pierre à 18h
+Le mardi 25 à la librairie Le Monte en l’Air à 18h
+Le mercredi 26 au Théâtre du Rond Point à 18h
+PARTAGEZ CET ARTICLE

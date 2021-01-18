@@ -1,0 +1,2 @@
+Comme une très large majorité de Français, vous validez en tous points la politique de notre Président Emmanuel Macron, issue de son cerveau génétiquement supérieur à la moyenne. Mais si vous aviez la chance inouïe d’être un membre de son parti novateur et progressiste « En Marche », lequel seriez-vous ? Faîtes ce test pour le savoir !
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };

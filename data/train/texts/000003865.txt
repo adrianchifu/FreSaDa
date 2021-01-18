@@ -1,0 +1,5 @@
+Etes-vous goofy, regular, ou trop pauvre pour aller skier ?
+Le Gorafi met à votre disposition son tout nouveau simulateur pour répondre à cette épineuse question.
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };
+
+En vente partout La Boîte à Quiz du Gorafi https://amzn.to/2BNAacP et l’Almanach du Gorafi https://amzn.to/2zEa4Yh

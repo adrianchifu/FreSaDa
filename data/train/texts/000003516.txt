@@ -1,0 +1,2 @@
+Vous ne parvenez pas à savoir si vous êtes en train de faire un test ? En répondant à ce test, vous saurez avec certitude si vous êtes en train d’en faire un.
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };

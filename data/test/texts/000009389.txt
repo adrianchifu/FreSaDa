@@ -1,0 +1,5 @@
+Siné Mensuel à la marche républicaine
+Par La Rédaction, janvier 2015 #gallery-2 { margin: auto; } #gallery-2 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 20%; } #gallery-2 img { border: 2px solid #cfcfcf; } #gallery-2 .gallery-caption { margin-left: 0; } /* see gallery_shortcode() in wp-includes/media.php */
+
+
+PARTAGEZ CET ARTICLE

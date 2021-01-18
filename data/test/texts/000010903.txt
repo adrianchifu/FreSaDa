@@ -1,0 +1,19 @@
+Un anniversaire particulier. En plus de souffler 18 bougies le 22 mars prochain, Elise Machado va valider son droit à se présenter aux muncipales. Et sans surprise elle sera la plus jeune colistière de France dans le village de Le Mémont, dans le Doubs.
+
+La jeune fille, qui prépare un bac S n'a pas d'étiquette politique. Son ambition? "Découvrir le fonctionnement de la commune et prendre part aux décisions qui la concerne", a-t-elle expliqué à l'AFP. A Le Mémont il y a 38 habitants et la liste actuelle est déjà apolitique.
+
+"Pour moi, c'est un premier pas dans la vie d'adulte. J'ai envie de prendre des responsabilités et cette élection sera une expérience enrichissante" s'enthousiame Elise Machado. Avec le soutien de ses parents - sa mère est conseillère municipale - elle a décidé de se lancer dans l'aventure il y a un mois.
+
+Mais, la jeune fille a aussi d'autres rêves et notamment celui de devenir gendarme "pour aider les autres". Et si l'envie lui prenait de continuer à se présenter dans son village, elle a peut-être de beaux jours devant elle. A Marseille, la candidate la plus âgée a... 103 ans!
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section{display:block;} body{line-height:1;} ol, ul{list-style:none;} blockquote, q{quotes:none;} blockquote:before, blockquote:after, q:before, q:after{content:'';content:none;} table{border-collapse:collapse;border-spacing:0;}.clear{clear:both;height:0px;overflow:hidden;line-height:0;font-size:0.0em;} #ColD-Elections{overflow:hidden;width:580px;margin:0 0 20px 0;font:12px Arial, Helvetica, sans-serif;color:#046;}#ColD-Elections .main{overflow:hidden;background:#fff url(https://static.bfmtv.com/regie/img/elections/map.png) no-repeat center right;padding:10px;}#ColD-Elections .foot{overflow:hidden;width:580px;height:3px;background:url(//www.bfmtv.com/img/bfmtv_sprite.png) 0 0;} #ColD-Elections .titre{font:bold 18px 'Trebuchet MS', Arial, Helvetica, sans-serif !important;color:#269 !important;text-transform:uppercase !important;margin:0 0 10px 0 !important;}#ColD-Elections .titre2{font:bold 14px Arial, Helvetica, sans-serif !important;color:#666 !important;margin:0 0 10px 0 !important;}#ColD-Elections li{display:block;margin-bottom:10px;}#ColD-Elections label{display:block;}#ColD-Elections input, #ColD-Elections select{font:13px/28px Arial, Helvetica, sans-serif;color:#666;border:1px solid #b8c3c9;background:#f9f9fa;width:70%;}#ColD-Elections input.submit{font:bold 14px Arial, Helvetica, sans-serif;color:#fff;border:1px solid #222;background:#333;cursor:pointer;width:auto;}
+Élections
+Les résultats dans votre ville
+Ex : Lyon, 69 ou Lyon, 69002
+Sélectionnez votre élection
+Présidentielle 2002
+Présidentielle 2007
+Législatives 2007
+Présidentielle 2012
+Législatives 2012
+Municipales

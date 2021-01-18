@@ -1,0 +1,2 @@
+Si vous êtes angoissé par la façon dont vous allez un beau jour passer de vie à trépas, ce test devrait vous rassurer grandement sur la nature des horreurs que vous allez subir.
+window.beOpinionAsyncInit = function() { BeOpinionSDK.init({ account: "589c71a4d068331ee05ac9fd" }); BeOpinionSDK.watch(); };

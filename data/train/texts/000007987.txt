@@ -1,0 +1,7 @@
+INVENTION - Des chercheurs ont créé un système de marches à ressorts qui emmagasinent l'énergie produite par le poids du corps en descendant l'escalier et la libère à la montée, une invention qui pourrait aider les personnes âgées qui restent vivre chez elles.
+"Les solutions actuelles pour les personnes handicapées ou âgées ne sont pas pratiques ou abordables car il est impossible ou trop coûteux d'installer un ascenseur ou un monte-marches à domicile", explique Yun Seong Song, professeur adjoint à la faculté des sciences et des technologies de l'université du Missouri et principal co-auteur de cette invention, décrite mercredi 12 juillet dans la revue américaine Plos One.
+"Un système peu coûteux de marches qui stockent et libèrent l'énergie pourrait être un moyen pour ces personnes de garder leur indépendance de mouvements et d'éviter la maison de retraite", estime-t-il.
+Effort sur les genoux réduit de 37%
+Les chercheurs ont calculé que ces marches, en libérant l'énergie stockée, permettaient de réduire de 37% l'effort sur les genoux en montant l'escalier.
+Ce système peut être installé aisément sur des escalier existants, et de manière temporaire. Chaque marche est munie de ressorts et équipée de capteurs de pression.
+Quand quelqu'un descend l'escalier, chacune des marches s'affaisse lentement sous le poids avant de se stabiliser, emmagasinant l'énergie générée.
