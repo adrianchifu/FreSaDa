@@ -22,7 +22,7 @@ You are free to **share** (copy and redistribute the material in any medium or f
 
 #### General Information
 
-FreSaDa, the French SatireData Set, is composed of 11,570  articles  from  the  newsdomain. The news articles are of two types: satirical and regular. Two possible tasks may be considered on FreSaDa:
+FreSaDa, the <i>**Fre**nch **Sa**tire **Da**ta Set</i>, is composed of 11,570  articles  from  the  newsdomain. The news articles are of two types: satirical and regular. Two possible tasks may be considered on FreSaDa:
 - Cross-domain binary classification of full news articles into *regular* versus *satirical* examples
 - Cross-domain binary classification of headlines into *regular* versus *satirical* examples
 
