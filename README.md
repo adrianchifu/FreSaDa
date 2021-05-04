@@ -16,7 +16,7 @@ You are free to **share** (copy and redistribute the material in any medium or f
 
 ## 2. Citation
 
-[1] *Radu Tudor Ionescu, Adrian Gabriel Chifu.* **FreSaDa: A French Satire Data Set for Cross-Domain Satire Detection.** In: The International Joint Conference on Neural Network, IJCNN 2021 (2021). [link to article](https://arxiv.org/abs/2104.04828)
+[1] *Radu Tudor Ionescu, Adrian Gabriel Chifu.* **FreSaDa: A French Satire Data Set for Cross-Domain Satire Detection.** In: The International Joint Conference on Neural Network, IJCNN 2021 (2021). [(link to article)](https://arxiv.org/abs/2104.04828)
 
 ```BibTeX
 @inproceedings{IonescuChifu2021IJCNN,
